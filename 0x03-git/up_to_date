@@ -1,1 +1,2 @@
-0x03. Git0x03. Git0x03. Git
+git fetch origin
+git pull origin master
